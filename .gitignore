@@ -1,0 +1,9 @@
+.idea
+*.iml
+out/
+# TS -incremental file
+tsconfig.tsbuildinfo
+node_modules
+build
+.log
+.log/*
